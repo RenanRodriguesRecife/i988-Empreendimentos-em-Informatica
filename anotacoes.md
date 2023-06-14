@@ -21,4 +21,15 @@ Toda empresa explora uma oportunidade, uma empresa não sobrevive sem atender um
 A startup está tentando aproveitar uma oportunidade nova, está tentando impelmentar um novo modelo de negócio. Mas tanto a empresa tradicional quanto a startup estão tentando explorar uma oportunidade. Normalmente em uma startup a oportunidade não está totalmente clara.
 
 A inovação não tá na tecnologia. A tecnologia habilita a inovação, ela permite explorar algo novo
+
+(publico alvo)
+Geralmente as statups traz soluções inovadores para um público alvo que não está satisfeito com as soluções tradicionais
+
+(risco)
+As startups geralmente estão sujeitas a um maior risco
+
+(escaláveis)
+As statups estão em busca de produtos que sejam escaláveis
+
+
 ------------------------
