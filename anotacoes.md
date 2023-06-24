@@ -90,5 +90,17 @@ OBS: Hoje em dia alguns governos estão adaptando regras para poder lidar com st
 Hoje para lidar com statup a empresa deve ter um determinado faturamento. As vezes a tributação é diferente. As vezes tem mecanismos de financiamento diferentes.
 tem editais específicos para statups
 
+
+(gerar algo novo) ALgo novo pode ser uma invensão, invensão não é inovação. Inovação traz um valor a sociedade. A inovação precisa gerar impacto se não gerou impacto não foi uma inovação.
+A apple não tem nenhum produto que ela foi a primeira a criar. Mas ela é muito boa em transformar os produtos em inovação (gerar impacto)
+
+Uma empresa não pode colocar todo seus ovos de ouro (esforços) em uma inovação. Poruqe se ela dá errado ela quebra.
+Ex: Metaverso no facebook.
+
+
+OBS: O óculos da APPLE é um MVP do padrão APPLE (bonito, bem feito...). Ele é um MVP pois falta muito features é apenas o mínimo que é preciso para saber como os usuário vão usar. Eles estão tentando vender como uma nova esperiência de consumo, como um cinema visto na sua casa.
+Ex: O apple watch que foi lançado mas as pessoas focaram para saúde e esportes.
+
+Quem consegue fazer escalabilidade com facilidade é a tecnologia. A tecnologia viabiliza a escalabilidade. Hoje não tem produto mais escalável que o produto digital. Fábrica são empresa de escala mas elas são caras.
+
 -----------------------
-37:29
