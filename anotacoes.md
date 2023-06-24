@@ -74,5 +74,21 @@ Ele traz outros pontos diferentes da definição anterior: Statup é temporária
 
 Se o negócio é repetível e escalável ele matou todas a incertezas. 
 
+Você vai testando adaptando, corrigindo o modelo até ter um modelo que você pode dizer que funciona
+  - sabe como cobrar,
+  - sabe como distribuir
+
+Se você tem um modelo que para cada país você tem que mudar completamente então o negócio não é repetível.
+repetível. A próxima venda que você vai fazer deve ser do mesmo jeito da anterior.
+
+Escalável: Quando você cresce você aumenta o faturamento muito mais que aumenta o seu custo.
+Ex: se você dá consultoria. você consegue fazer até 20 consultoria por dia mas se você for tentar dar 60 você é obrigado a mandar procurar outra pessoa.
+
+Uma statup é uma situação que uma empresa está.
+
+OBS: Hoje em dia alguns governos estão adaptando regras para poder lidar com statups. Antigamente para uma empresa ter negócio com o governo ela precisava ter alguns anos de experiência, garantia, história de venda... 
+Hoje para lidar com statup a empresa deve ter um determinado faturamento. As vezes a tributação é diferente. As vezes tem mecanismos de financiamento diferentes.
+tem editais específicos para statups
+
 -----------------------
 37:29
