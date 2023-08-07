@@ -28,8 +28,25 @@ Estratégia de crescimento de Uma aplicação: Você começa a vender para clien
 
 - Deve ser bem claro qual é o valor que você tá agregando, o que o produto faz, qual é o mercado... Saber claramente o que está propondo.
 
-29:43
+- As três aplicações não podem ser muito diferente. Isso quer dizer que para sair de um produto para outro será muito custoso
 
+OBS:
+Tecnologia é um insumo que viabiliza a você construir as aplicações
+
+Aplicação é um produto que cliente usa
+
+Oportunidade = Conjunto de clinte + Aplicação
+
+
+O Cliente não é as pessoas são de determinada área. E sim pessoas que são da área mas estão disposta a um desses produtos.
+
+Pode seguimentar o produto para várias pessoas. Ex: Você tem uma plataforma de ensino de E-sport e você pode segmentar a plataforma para vários tipos de jogos diferentes.
+
+Tecnologia - uma ia para análise avançada
+
+Aplicação - Analizar o desempenho de jogadores de LOL
+
+40:00
 
 -----------------------------------
 Atividade:
