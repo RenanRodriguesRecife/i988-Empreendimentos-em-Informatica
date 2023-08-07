@@ -4,11 +4,13 @@ Análise feita pelo professor na apresentação dos trabalhos
 
 - Onde é o projeto está sendo diferente dos demais? e onde é que a tecnologia está fazendo a diferença?
   
-- Dizer rápido, básico e resumidamente o que seu aplicativo faz e o que ele tem de especial (diferente dos demais). Focar no que é inovador
+- Dizer de forma objetiva o que seu aplicativo faz e o que ele tem de especial (diferente dos demais). Focar no que é inovador. (isso deve está escrito no slide da apresentação)
+
+- Se é uma oportunidade é porque existe um cliênte. Para cada cliente diferente é uma oportunidade diferente. Se você for vender a aplicação para uma escola é uma oportunidade se você for vender a mesma aplicação para um aluno é outra oportunidade.
+
+Oportunidade = Aplicação + Cliente
 
 - 
-
-
 
 
 
