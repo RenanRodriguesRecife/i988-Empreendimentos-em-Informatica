@@ -1,3 +1,29 @@
+
+
+Análise feita pelo professor na apresentação dos trabalhos
+
+- Onde é o projeto está sendo diferente dos demais? e onde é que a tecnologia está fazendo a diferença?
+  
+- Dizer rápido, básico e resumidamente o que seu aplicativo faz e o que ele tem de especial (diferente dos demais). Focar no que é inovador
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -----------------------------------
 Atividade:
 Responder o que é Startup? 
