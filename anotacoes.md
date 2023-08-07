@@ -10,20 +10,25 @@ Análise feita pelo professor na apresentação dos trabalhos
 
 Oportunidade = Aplicação + Cliente
 
-- 
+- Cada tipo de cliente pode ter um subtipo que o torna um cliente diferênte.
+  - Escola de ensino médio é uma oportunidade, escola de ensino superior é outra, escola pública é outra, cursinho é outra... (quando você tem uma empresa grande você pode vender para todo mundo que queira mas cada cliente é uma oportunidade diferênte).
+ 
+- O ciclo de venda para cada cliênte é diferente.
+  - Vender para um universidade pode precisa de contrato, licitação etc...(pode levar meses)
+  - Vender para um aluno o produto pode ser colocado na google play (exemplo)
+
+Estratégia de crescimento de Uma aplicação: Você começa a vender para clientes(Oportunidades) mais fáceis de depois passa para oportunidades mais difíceis.
 
 
+- A facilidade de venda no diagrama: Pode ser fácil ou difícil dependendo do pefil da pessoa que vai vender. Se você conhece alguém dentro da universídade pode ser mais fácil vender que você vender em uma loja de aplicativo que vai exigir mais campanha. Isso vai influenciar na estratégia de crescimento.
 
+- Mesmo sendo um mercado grande. É importante olhar que nem toda a empresa que tá no mercado está competido pelo problema que você tá tratando, pode ser que tenha comcorrente e pode ser que não.
 
+- Não precisa ter vários concorrente para ser difícil. Basta ter uma, Se você estiver concorrendo com o google já é suficiente para ser uma concorrência pesada. (Deve trazer quem é competidor que você está tratando)
 
+- Deve ser bem claro qual é o valor que você tá agregando, o que o produto faz, qual é o mercado... Saber claramente o que está propondo.
 
-
-
-
-
-
-
-
+29:43
 
 
 -----------------------------------
