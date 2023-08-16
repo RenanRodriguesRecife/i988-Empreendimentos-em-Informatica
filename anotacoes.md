@@ -1,4 +1,6 @@
+Pionerismo é uma unfair adventage se é algo difícil de copiar
 
+----------------------------------------------------------------------------
 
 Análise feita pelo professor na apresentação dos trabalhos
 
