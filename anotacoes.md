@@ -1,4 +1,9 @@
-Pionerismo é uma unfair adventage se é algo difícil de copiar
+goldmine x moonshot
+https://aktiasolutions.com/evaluating-a-market-opportunity/
+
+-----------------------------------
+
+Pionerismo só é uma unfair adventage se é algo difícil de copiar
 
 ----------------------------------------------------------------------------
 
