@@ -1,3 +1,9 @@
+TAM - SAM (considera fatores como limites geográricos e cadeia de distribuição) - SUM (considera também os concorrentes - também pode ser 10% do SAM)
+
+Você não precisa começar com o Brasil como o seu país inicial. Você pode buscar um país que funcione melhor com o modelo de negócio que você está propôndo. Ex: O projeto de empatia e sentimento no trânsito com o japão.
+
+-------------------------------------------------
+
 goldmine x moonshot
 https://aktiasolutions.com/evaluating-a-market-opportunity/
 
