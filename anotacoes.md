@@ -1,6 +1,21 @@
 TAM - SAM (considera fatores como limites geográricos e cadeia de distribuição) - SUM (considera também os concorrentes - também pode ser 10% do SAM)
 
-Você não precisa começar com o Brasil como o seu país inicial. Você pode buscar um país que funcione melhor com o modelo de negócio que você está propôndo. Ex: O projeto de empatia e sentimento no trânsito com o japão.
+Você não precisa começar com o Brasil como o seu país inicial. Você pode buscar um país que funcione melhor com o modelo de negócio que você está propôndo. Ex: O projeto de empatia e sentimento no trânsito com o japão, suécia ou suíça (que as pessoas tem uma consiência maior)
+
+SAM - Procurar calcular o faturamento do mercado possível por ano apartir de um TICKET médio (indicador de desempenho essencial que fornece o valor médio de vendas por cliente)
+
+Ex: SAM = número de auto escolas * TICKET MÉDIO = 14000 * 600 = 8.400.000
+
+Lembrar sempre que uma inovação é: Desrruptiva e escalável
+
+Plataforma social: Se você quer que isso aconteça ou você tem um negócio que viabiliza ou tem um ente que te viabiliza
+(Deve ter uma forma de manter (pagar) as pessoas que estão ali)
+
+  Será que tem outras formas que tem um impacto menor mais causa um impacto. 
+
+  Você pode ter um modelo de negócio que vive de patrocinadores: Ex: A fundação airton sena, que tem pessoas altamente capacitadas que 
+
+21:33
 
 -------------------------------------------------
 
