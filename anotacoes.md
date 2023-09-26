@@ -1,3 +1,60 @@
+# Fazer o Pitch
+
+Atividade: Pesquisar no ChatGpt como fazer o Pitch
+
+Resposta do ChatGPT
+```
+1 - Conheça o Seu Público-Alvo:
+Pesquise sobre o investidor ou grupo de investidores que você vai abordar. Entenda seu histórico de investimento e interesses para adaptar sua apresentação às suas preferências.
+
+2 - Comece com um Gancho:
+Comece o pitch com uma declaração impactante que desperte o interesse do investidor. Pode ser uma estatística surpreendente, uma pergunta provocativa ou uma história envolvente relacionada ao seu negócio.
+
+3 - Apresente-se e à Sua Equipe:
+Faça uma breve introdução de quem você é e do seu time. Destaque as competências e experiências que tornam a equipe qualificada para levar o negócio adiante.
+
+4 - Descreva o Problema:
+Identifique claramente o problema que seu produto ou serviço resolve. Use exemplos e estatísticas para ilustrar a gravidade desse problema.
+
+5 - Apresente a Solução:
+Explique como sua empresa resolve o problema de forma única e inovadora. Destaque os principais recursos e benefícios do seu produto ou serviço.
+
+6 - Mercado Alvo e Tamanho do Mercado:
+Demonstre que você compreende seu mercado-alvo, incluindo seu tamanho e oportunidades de crescimento. Use dados de mercado para respaldar suas afirmações.
+
+7 - Modelo de Negócios:
+Descreva como sua empresa gera receita. Explique sua estratégia de precificação, distribuição e venda. Mostre que você tem um caminho claro para a rentabilidade.
+
+8 - Estratégia de Marketing e Aquisição de Clientes:
+Explique como você planeja atrair e reter clientes. Isso pode incluir estratégias de marketing, parcerias estratégicas e canais de aquisição de clientes.
+
+9 - Concorrentes e Vantagem Competitiva:
+Identifique os concorrentes diretos e indiretos e explique como sua empresa se diferencia. Destaque sua vantagem competitiva.
+
+10 - Tração e Resultados:
+Se você tiver dados de desempenho, como vendas, crescimento de usuários ou marcos importantes alcançados, compartilhe-os para mostrar que seu negócio está ganhando tração.
+
+11 - Necessidade de Investimento:
+Indique claramente quanto capital você está buscando e como planeja usar esse dinheiro para alcançar seus objetivos.
+
+12 - Encerramento Forte:
+Conclua o pitch de forma poderosa, reforçando os principais pontos e destacando por que o investidor deve se envolver com sua empresa.
+
+13 - Prepare-se para Perguntas:
+Esteja preparado para responder às perguntas dos investidores. Antecipe as preocupações comuns e esteja pronto para fornecer informações adicionais.
+
+14 - Pratique e Cronometre:
+Pratique seu pitch várias vezes para se certificar de que ele se encaixa no tempo disponível (normalmente de 5 a 10 minutos). Seja claro e conciso.
+
+15 - Ajuste para Cada Investidor:
+Adapte seu pitch com base no feedback e nas preferências de cada investidor. Mostre que você fez sua lição de casa.
+
+Lembre-se de que a confiança e a paixão também desempenham um papel importante em um pitch de sucesso. Mostre que você acredita profundamente em sua ideia e está comprometido em fazê-la acontecer. Boa sorte!
+```
+
+
+==============================================================================
+
 TAM - SAM (considera fatores como limites geográricos e cadeia de distribuição) - SUM (considera também os concorrentes - também pode ser 10% do SAM)
 
 Você não precisa começar com o Brasil como o seu país inicial. Você pode buscar um país que funcione melhor com o modelo de negócio que você está propôndo. Ex: O projeto de empatia e sentimento no trânsito com o japão, suécia ou suíça (que as pessoas tem uma consiência maior)
