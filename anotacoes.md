@@ -52,6 +52,12 @@ Adapte seu pitch com base no feedback e nas preferências de cada investidor. Mo
 Lembre-se de que a confiança e a paixão também desempenham um papel importante em um pitch de sucesso. Mostre que você acredita profundamente em sua ideia e está comprometido em fazê-la acontecer. Boa sorte!
 ```
 
+Juanes Correa que será o investidor que irá avaliar o os pitches. Ele é um dos sócios da telefunk capital - https://www.linkedin.com/in/juanescorrea/
+(Verficar o perfil dele e o tipo de impresas que ele investe)
+
+Obs: Você não vai tirar uma nota ruim se o ele disser que o negócio não é bom. A nota será data em relação as perguntas que ele fizer que tem relação aos assuntos dados em sala de aula.
+
+Na realidade o pitch é um resumo do modelo de negócio que está no canvas.
 
 ==============================================================================
 
